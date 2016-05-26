@@ -1,1 +1,1 @@
-# tg-app-demo
+# declaration
