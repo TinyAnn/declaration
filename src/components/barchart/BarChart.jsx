@@ -37,7 +37,7 @@ export default class BarChart extends Component{
 		    series: [
 		        {
 		            name:'邮件营销',
-		            type:'line',
+		            type:'line1',
 		            stack: '总量',
 		            data:[120, 132, 101, 134, 90, 230, 210]
 		        },
