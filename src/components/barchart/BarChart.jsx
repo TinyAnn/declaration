@@ -49,7 +49,7 @@ export default class BarChart extends Component{
 		        },
 		        {
 		            name:'视频广告',
-		            type:'line',
+		            type:'line3',
 		            stack: '总量',
 		            data:[150, 232, 201, 154, 190, 330, 410]
 		        },
