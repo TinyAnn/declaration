@@ -43,7 +43,7 @@ export default class BarChart extends Component{
 		        },
 		        {
 		            name:'联盟广告',
-		            type:'line',
+		            type:'line2',
 		            stack: '总量',
 		            data:[220, 182, 191, 234, 290, 330, 310]
 		        },
